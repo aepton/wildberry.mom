@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.photo {
+  width: 60%;
+  margin-left: 20%;
+  margin-right: 20%;
+}
